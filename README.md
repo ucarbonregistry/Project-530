@@ -1,6 +1,18 @@
 # Project-530
 90 MW Sugarcane Bagasse based co-generation Energy BEVAP Bioenergia
 
+Country: Brazil
+
+District: João Pinheiro
+
+State: Minas Gerais
+
+Zip Code: 38770-000
+
+Latitude: -17.0622º
+
+Longitude: -46.1836º 
+_____________
 Scale of the project activity Large Scale
 
 Project participants
