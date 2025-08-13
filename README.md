@@ -118,6 +118,34 @@ factors considered in the NEEA calculation. However, to adopt a conservative pos
 double counting, percentage of Carbon Credits will be deducted under UCR in the same
 proportion in which the exported energy boosted the generation of CBIOs, in the respective periods
 in which they were generated.
+
+The project is not registered in any other GHG mechanism. Hence, there will not be any double
+counting possibility. The biomass-based boiler and turbine have unique serial numbers which are visible on the units. The
+generated electricity is measured using energy meters who also has unique serial numbers. The
+Monitoring Report will have the details of the same and will be provided to the UCR verifier during
+the verification process. 
+
+BEVAP Bioenergia is not certified for i-RECs generation.
+
+BEVAP Bioenergia is also certified by Renovabio, which is the Brazilian National Biofuels Program,
+created to encourage the production and use of sustainable biofuels, such as ethanol and biodiesel,
+replacing gasoline and diesel, which are more polluting fossil fuels. The lower the carbon intensity
+of the biofuel, the greater the difference in relation to fossil fuels, resulting in certificates called
+CBIOs, which can be traded. The impact of exported energy on the number of CBIOs is very small
+compared to other factors such as agricultural and industrial efficiency, and it’s not the focus of
+Renovabio certification. Exported energy is just one of many factors considered.
+__________
+Although RenovaBio and the carbon credit certification system have similar objectives with regard
+to decarbonization, they are different programs and work in different ways, with their own regulations
+and mechanisms. However, to adopt a conservative position and avoid double counting, the
+percentage of Carbon Credits will be deducted here in this program, in the same proportion in which
+the exported energy boosted the generation of CBIOs, in the respective periods in which they were
+generated:
+________
+UTE Bioenergética Vale do Paracatu: May, 2020 to December, 2024: resulting in a reduction of
+9,445 CoUs.
+___________
+UTE Enervale: May, 2020 to December, 2024: resulting in a reduction of 2,388 CoUs
 _____________
 ISSUANCE DATE: 13/08/2025
 
