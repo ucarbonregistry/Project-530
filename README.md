@@ -118,3 +118,82 @@ factors considered in the NEEA calculation. However, to adopt a conservative pos
 double counting, percentage of Carbon Credits will be deducted under UCR in the same
 proportion in which the exported energy boosted the generation of CBIOs, in the respective periods
 in which they were generated.
+_____________
+ISSUANCE DATE: 13/08/2025
+
+QTY: 803667
+
+MP-01: 213-2024
+______________
+Serial Number: 0001-000001-066557-UCR-CoU-BR-530-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 66557
+___________
+Serial Number: 0001-066558-144035-UCR-CoU-BR-530-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 77478
+___________
+Serial Number: 0001-144036-238636-UCR-CoU-BR-530-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 94601
+__________
+Serial Number: 0001-238637-316857-UCR-CoU-BR-530-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 78221
+___________
+Serial Number: 0001-316858-389276-UCR-CoU-BR-530-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 72419
+__________
+Serial Number: 0001-389277-486210-UCR-CoU-BR-530-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 96934
+________
+Serial Number: 0001-486211-569300-UCR-CoU-BR-530-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 83090
+__________
+Serial Number: 0001-569301-625830-UCR-CoU-BR-530-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 56530
+________
+Serial Number: 0001-625831-691359-UCR-CoU-BR-530-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 65529
+______________
+Serial Number: 0001-691360-729825-UCR-CoU-BR-530-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 38466
+________________
+Serial Number: 0001-729826-761321-UCR-CoU-BR-530-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 31496
+_____________
+Serial Number: 0001-761322-803667-UCR-CoU-BR-530-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 42346
+_________
